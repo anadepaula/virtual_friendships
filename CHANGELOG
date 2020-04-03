@@ -1,0 +1,6 @@
+First working version
+
+- Added client and server sripts
+- Added message wrapper
+- Added envvar and settings handling using decouple
+- Added git's "boilerplate" (reaadme, changelog, version, gitignore yadda yadda yadda)
